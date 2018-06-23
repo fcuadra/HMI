@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/status">
+        <file>fail.png</file>
+        <file>good.png</file>
+        <file>warning.png</file>
+    </qresource>
+</RCC>
